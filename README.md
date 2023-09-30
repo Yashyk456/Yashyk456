@@ -7,7 +7,6 @@ I am a dynamic **C++ / Python Software Developer** with a profound passion for c
 ### Programming Languages
 - **C/C++:** OOPS, Pointers, Multi-Threading, STL containers, BOOST, POCO, Socket Programming, Templates, Data Structures, Algorithms
 - **Python:** Django, FastAPI, asyncio, Kivy, Celery, Coqui-ai/TTS, ASR
-- **JavaScript:** Node.js (assumed from your skills)
 
 ### Databases
 - **Relational Databases:** PostgreSQL, MySQL
@@ -24,7 +23,7 @@ I am a dynamic **C++ / Python Software Developer** with a profound passion for c
 
 ### Web Technologies
 - **Web Development:** REST API, JSON
-- **Frontend Development:** JavaScript (assumed from your skills)
+- **Frontend Development:** JavaScript, Django, Flask
 
 ### Networking & Communication
 - **Protocols:** SIP Signaling, TCP/IP
