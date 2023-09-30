@@ -1,4 +1,5 @@
-# Hi there, I'm Yash Khandelwal! 👋
+# Hi there, I'm Yash Khandelwal! 👋 
+![](https://komarev.com/ghpvc/?username=Yashyk456&style=plastic&color=blueviolet)
 
 I am a dynamic **C++ / Python Software Developer** with a profound passion for crafting elegant solutions to intricate problems. My journey in the realm of programming has been a thrilling adventure filled with curiosity, challenges, and an unyielding desire to learn and innovate. Here's a glimpse into what defines me as a developer and a tech enthusiast:
 
