@@ -7,12 +7,17 @@ I am a dynamic **C++ / Python Software Developer** with a profound passion for c
 
 ### Programming Languages
 - **C/C++:** OOPS, Pointers, Multi-Threading, STL containers, BOOST, POCO, Socket Programming, Templates, Data Structures, Algorithms
-- **Python:** Django, FastAPI, asyncio, Kivy, Celery, Coqui-ai/TTS, ASR
+- **Python:** Django, FastAPI, asyncio, Kivy, Celery 
+- **Others:** Go, Rust
 
 ### Databases
 - **Relational Databases:** PostgreSQL, MySQL
 - **NoSQL Databases:** Apache Cassandra, SQLite, Redis, Apache Ignite
 - **Database Technologies:** Triggers, Cursors
+
+### Natural Language Processing & AI
+- **NLP Libraries:** NLTK, Coqui-ai/TTS
+- **Speech/Text/Sentiment Recognition:** vosk-api, BERT
 
 ### Tools & Development Environment
 - **IDE & Editors:** VS Code
@@ -33,11 +38,7 @@ I am a dynamic **C++ / Python Software Developer** with a profound passion for c
 - **Messaging Protocols:** MQTT
 
 ### Mobile App Development
-- **Frameworks:** Dart, Flutter
-
-### Natural Language Processing & AI
-- **NLP Libraries:** NLTK, Coqui-ai/TTS
-- **Speech Recognition:** ASR
+- **Frameworks:** Dart, Flutter  
 
 ### Interpersonal Skills
 - **Soft Skills:** Time Management, Communication, Adaptability, Problem Solving, Teamwork, Creativity, Leadership
